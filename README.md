@@ -9,6 +9,8 @@ Teaching tools for the soil dynamic class at EAFIT University.
 1. [Wave propagation in piles](./notebooks/wave_propagation.ipynb)
 1. [Zeevaert's modal analysis](./notebooks/zeevaert_modal_analysis.ipynb)
 1. [Fourier Transforms](./notebooks/fourier_transforms.ipynb)
+1. [Newmark sliding block method in a spatial domain](./notebooks/pynewmarkdisp_dummy_example.ipynb)
+
 
 ## License
 
