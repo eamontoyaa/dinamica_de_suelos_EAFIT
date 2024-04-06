@@ -3,3 +3,5 @@ requirements_before_colab.txt
 %Google_Drive%Dev%GitHub%EAFIT_soil_dynamics
 .ipynb_checkpoints
 notebooks/raw.githubusercontent.com
+records
+notebooks/pynewmarkdisp_AV.ipynb
